@@ -1,0 +1,2 @@
+I have create a popup box or window using HTML and CSS. We use some basic HTML tags like heading, paragraph, button.
+We create a button and when clicked, the popup box will open as you can see in the output.
